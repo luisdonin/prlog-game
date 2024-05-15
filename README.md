@@ -23,4 +23,4 @@ This is a text-based adventure game written in Prolog. You play as Duda, a dog w
 
 ## Credits
 
-This game was created by user J. Luis B. Donin and Luiz Felipe Nagatani Rabello.
+This game was created by user J. Luis B. Donin.
